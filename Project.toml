@@ -1,0 +1,13 @@
+name = "LikelihoodProfilerLab3"
+uuid = "46a92401-587e-4e10-b083-86e80e27e6d2"
+authors = ["Evgeny Metelkin metelkin@insysbio.com", "Ivan Borisov borisov@insysbio.com"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

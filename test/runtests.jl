@@ -1,6 +1,6 @@
-using LikelihoodProfilerLab3
+using LikelihoodProfilerLab
 using Test
 
-@testset "LikelihoodProfilerLab3.jl" begin
+@testset "LikelihoodProfilerLab.jl" begin
     # Write your tests here.
 end

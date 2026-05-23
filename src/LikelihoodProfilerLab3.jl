@@ -1,4 +1,4 @@
-module LikelihoodProfilerLab3
+module LikelihoodProfilerLab
 
 # Write your package code here.
 
